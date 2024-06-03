@@ -10,4 +10,4 @@
 - 
 
 
-[ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/ethomson)
+[![ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/ethomson)
