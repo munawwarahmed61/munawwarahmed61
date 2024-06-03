@@ -8,4 +8,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/munawwar-ahmed-%E2%98%81%EF%B8%8F-32308498/)
 - 😄 Pronouns: he/him
 
-https://github4life.herokuapp.com/ethomson.gif
+[![ethomson's contribution graph as a Game of Life](https://github4life.herokuapp.com/ethomson.gif)](https://github4life.herokuapp.com/ethomson)
