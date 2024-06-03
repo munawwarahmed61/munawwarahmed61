@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about *Cloud Infra/Networking, Devops and automation*
-- 📫 How to reach me: ![linkedin_174857](https://github.com/munawwarahmed61/munawwarahmed61/assets/114436533/a2c49d38-db0c-4b13-9371-bb8105099fab=250x250)
+- 📫 How to reach me: ![linkedin_174857](https://github.com/munawwarahmed61/munawwarahmed61/assets/114436533/a2c49d38-db0c-4b13-9371-bb8105099fab =250x250)
 (https://www.linkedin.com/in/munawwar-ahmed-%E2%98%81%EF%B8%8F-32308498/)
 - 😄 Pronouns: he/him
 
