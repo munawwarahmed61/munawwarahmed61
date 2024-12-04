@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on *Terraform on Azure*
 - 🌱 I’m currently learning *K8s*
 - 👯 I’m looking to collaborate on Terraform
-- 🤔 I’m looking for help with Ansible,K8s,Gitops
+- 🤔 I’m looking for help with Ansible, K8s, Gitops
 - 💬 Ask me about *Cloud Infra/Networking, Devops and IaC*
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/munawwar-ahmed-%E2%98%81%EF%B8%8F-32308498/)
 - 😄 Pronouns: he/him
